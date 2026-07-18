@@ -21,6 +21,9 @@ Mechanical Engineering Student exploring software development and building pract
 
 ### ✅ Gamified Consistency Dashboard
 
+🔗 Repository:
+https://github.com/Rayyan-111/gamified-consistency-dashboard
+
 A local-first productivity dashboard built with:
 
 - Python
