@@ -1,4 +1,4 @@
-# Hi, I'm Rayyan 👋
+# Hi, I'm Rehan 👋
 
 Mechanical Engineering Student exploring software development and building practical tools with Python.
 
